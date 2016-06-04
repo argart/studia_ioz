@@ -1,3 +1,3 @@
 
-def test(a):
-	print(a)
+def test():
+	print("poprawka1")
